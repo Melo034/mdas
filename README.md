@@ -1,4 +1,3 @@
-convert in relation to the mdas
 
 # Freetown Startups Directory
 

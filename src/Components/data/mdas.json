@@ -1,0 +1,114 @@
+[
+    {
+      "name": "Ministry of Agriculture and Food Security",
+      "address": "Youyi Building, Freetown",
+      "phone": "+232 79 146533",
+      "email": "info@maf.gov.sl",
+      "website": "https://maf.gov.sl/"
+    },
+    {
+      "name": "Ministry of Basic and Senior Secondary Education",
+      "address": "New England Ville, Freetown",
+      "phone": "+232 78 408831",
+      "email": "info@mbsse.gov.sl",
+      "website": "https://mbsse.gov.sl/"
+    },
+    {
+      "name": "Ministry of Finance",
+      "address": "Treasury Street Building George St., Freetown",
+      "phone": "+232 76 100003",
+      "email": "info@mof.gov.sl",
+      "website": "https://mof.gov.sl/"
+    },
+    {
+      "name": "Ministry of Health and Sanitation",
+      "address": "4th & 5th floors Youyi Building, Freetown",
+      "phone": "+232 76 460440",
+      "email": "info@mohs.gov.sl",
+      "website": "https://mohs.gov.sl/"
+    },
+    {
+      "name": "Ministry of Lands, Housing and Country Planning",
+      "address": "3rd Floor Youyi Building, Freetown",
+      "phone": "+232 79 031317",
+      "email": "info@molhcp.gov.sl",
+      "website": "https://molhcp.gov.sl/"
+    },
+    {
+      "name": "Ministry of Social Welfare, Gender and Children's Affairs",
+      "address": "New England Ville, Freetown",
+      "phone": "+232 76 370688",
+      "email": "info@mosw.gov.sl",
+      "website": "https://mosw.gov.sl/"
+    },
+    {
+      "name": "Ministry of Youth Affairs",
+      "address": "National Stadium Hostels, 2nd Floor, Syke Street, Freetown",
+      "phone": "+232 76 617548",
+      "email": "info@youthaffairs.gov.sl",
+      "website": "https://youthaffairs.gov.sl/"
+    },
+    {
+      "name": "Ministry of Tourism and Cultural Affairs",
+      "address": "28B Kingharman Road Brookfields, Freetown",
+      "phone": "+232 76 100010",
+      "email": "info@tourism.gov.sl",
+      "website": "https://tourism.gov.sl/"
+    },
+    {
+      "name": "Ministry of Labour and Social Security",
+      "address": "New England Ville, Freetown",
+      "phone": "+232 76 468761",
+      "email": "ict@moelss.gov.sl",
+      "website": "https://moelss.gov.sl/"
+    },
+    {
+      "name": "Ministry of Local Government and Rural Development",
+      "address": "6th floor Youyi Buiding, Freetown",
+      "phone": "+232 88 696839",
+      "email": "info@mlgrd.gov.sl",
+      "website": "https://mlgrd.gov.sl/"
+    },
+    {
+      "name": "Ministry of Works and Public Assets",
+      "address": "New England Ville, Freetown",
+      "phone": "+232 76 652976",
+      "email": "ict@mowpa.gov.sl",
+      "website": "https://mowpa.gov.sl/"
+    },
+    {
+      "name": "Ministry of Water Resources",
+      "address": "127 Kuku's Drive Off Jomo Kenyatta Road, Freetown",
+      "phone": "+232 76 617242",
+      "email": "info@mwr.gov.sl",
+      "website": "https://mwr.gov.sl/"
+    },
+    {
+      "name": "Judiciary of Sierra Leone",
+      "address": "Law Courts Building, Freetown",
+      "phone": "+232 76 617548",
+      "email": "info@judiciary.gov.sl",
+      "website": "https://www.judiciary.gov.sl/"
+    },
+    {
+      "name": "Electricity Distribution and Supply Authority(EDSA)",
+      "address": "siaka Steven Street, Freetown",
+      "phone": "+232 76 322870",
+      "email": "info@edsa.sl",
+      "website": "http://www.edsa.sl"
+    },
+    {
+      "name": "National Communications Authority",
+      "address": "Hill Station, Freetown",
+      "phone": "+232 76 604359",
+      "email": "info@natca.gov.sl",
+      "website": "https://www.natca.gov.sl/"
+    },
+    {
+      "name": "Ministry of Communication, Technology and Innovation",
+      "address": "8th floor Youyi Building, Freetown",
+      "phone": "+232 76 604359",
+      "email": "info@mocti.gov.sl",
+      "website": "https://www.mocti.gov.sl/"
+    }
+]
